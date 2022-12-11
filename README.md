@@ -18,8 +18,10 @@ Economics student at Pontifical Catholic University of Peru. Currently working a
 - MS Excel
 - Power BI
 
+<code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_stata_icon_130148.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://img2.freepng.es/20190618/yhi/kisspng-logo-movistar-brand-trademark-product-rstudio-icon-free-of-papirus-apps-5d08d887815bb1.5167350915608608075299.jpg"></code>
+<code><img height="20" src="<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
