@@ -9,7 +9,7 @@ Economics Student at PUCP | Intern in Ntt Data Perú
 - 😄 Pronouns: She/Her
 
 ## About :sunglasses:
-Economics student at Pontifical Catholic University of Peru. Currently working as an Intern in Enterprise and Cloud Solutions in NTT Data. Passionate about Data Analysis, Consulting and Microeconomics. Also, have some experience in events management and economics research.
+Economics student at Pontifical Catholic University of Peru. Currently working as an Intern in Enterprise and Cloud Solutions in NTT Data. Passionate about Data Analysis, Consulting and Microeconomics. Also, have some experience in events management and economic research.
 
 ## Technologies :fire:
 - Stata
